@@ -1,0 +1,29 @@
+Spontaneous application — FEMTOPRINT SA
+Subject (if emailing info@femtoprint.ch): Spontaneous application — R&D Software Engineer (computational process development)
+Form: https://www.femtoprint.ch/careers.php#form-candidatura
+Company dropdown: Lugano - Agno, Switzerland
+Attach: CV PDF
+
+---
+
+Dear FEMTOPRINT team,
+
+I am writing to apply spontaneously for a role in your R&D organization in Agno, ideally at the intersection of software engineering, computational science and process development. I am a senior software engineer with a Master in Computational Science (USI) and over seven years of experience building 3D processing pipelines, geometric algorithms and high-performance computing systems. While I am not a laser physicist, I believe my profile maps directly onto the computational side of femtosecond glass microfabrication, the part of the R&D cycle where simulation, optimization and data turn design intent into manufacturable microdevices.
+
+What I would bring to your team:
+
+- Process simulation & optimization: I have repeatedly designed and optimized numerical pipelines (PDE/ODE solvers, stochastic optimization, machine learning with PyTorch) and contributed to Utopia, a high-performance C++ parallel computing library at USI's Institute of Computational Science. I would apply the same approach to laser writing strategies — toolpath generation, process parameter optimization, and design-for-manufacturing checks for complex 3D microstructures.
+- 3D data pipelines & geometric algorithms: Across my career I have built end-to-end pipelines for processing, optimizing and streaming large-scale 3D datasets, including scanned environments and medical imaging. Your devices — waveguides, microlenses, microfluidic channels — are precisely the kind of complex 3D geometry my pipelines are built to handle.
+- Visualization & tooling: I developed a browser-based volumetric DICOM visualizer (GPU-accelerated, 100% client-side) and a Blender add-on for spectral segmentation of 3D meshes. Interactive, web-based viewers for microstructures and production data would shorten the feedback loop between design, process engineering and your research partners.
+- Production software: I have led deployment pipelines (Docker, Kubernetes, AWS) and reduced processing times by more than 250% by distributing workloads across nodes — experience I would gladly bring to automating and scaling your production and quality workflows.
+
+I am drawn to FEMTOPRINT because it is a Swiss company where research and industrialization genuinely meet: the new Agno headquarters, the partnership ecosystem with universities and quantum/photonics labs, and the transition from prototyping to wafer-scale manufacturing. I would like to help your R&D teams — and the external research partners you support — move faster from idea to functional microdevice.
+
+I live in Bellinzona, a short commute from Agno, and I am available to start immediately. I would be happy to discuss how my background could support your R&D roadmap, and I am open to roles in R&D software, computational process development or related engineering positions.
+
+Thank you for considering my application.
+
+Kind regards,
+Niccolò Zuppichini
++41 76 275 07 06 | niccolo.zuppichini@gmail.com
+niccolozuppichini.com | www.linkedin.com/in/niccolo-zuppichini

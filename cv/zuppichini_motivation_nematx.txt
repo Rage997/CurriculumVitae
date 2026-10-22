@@ -1,0 +1,21 @@
+Subject: Spontaneous application — Software Engineer / R&D (Niccolò Zuppichini)
+
+Dear NematX team,
+
+I am writing to introduce myself and express my interest in a software engineering or R&D role at NematX. What attracts me to your company is the full-stack nature of the platform: proprietary LCP materials, high-precision extrusion hardware, and the part design algorithms that tie them together. The last part — turning molecular alignment into printable, industrial-grade geometry — is exactly the kind of problem I have spent the last eight years working on.
+
+My background sits at the intersection of geometric algorithms and high-performance systems. At Mindcraft, I built end-to-end 3D scanning pipelines: asset processing, mesh optimization, and geometric algorithms to prepare complex scanned environments for real-time use, plus the systems to stream large-scale 3D datasets in the browser. At Luminocity, I worked on the core of a WebGL rendering engine — particle systems, post-processing pipelines, and low-level graphics architecture. Before that, at the Institute of Computational Science, I contributed to Utopia, a high-performance C++ parallel computing library for non-linear high-dimensional problems, and I hold a Master's in Computational Science.
+
+Two of my projects map directly onto NematX's domain. I built a browser-based 3D DICOM medical imaging viewer — DICOM parsing, volumetric rendering, GPU-accelerated visualization — which gives me familiarity with the medical applications you target. I also developed a spectral segmentation algorithm for automatically detecting features in 3D geometry (Blender add-on, 200+ downloads) and applied machine learning to 3D object classification at Hegias.
+
+In a small team I am comfortable owning the full path: Python, C++, and Rust for algorithms; PyTorch, CUDA, and OpenMPI when the workload demands it; and AWS, Docker, and Kubernetes for deployment. I am based in Bellinzona, Switzerland, and happy to work from the Zurich office as needed.
+
+I would welcome the chance to discuss how my profile could fit the team — whether in part design algorithms, printer software, or process optimization. My CV is attached.
+
+Best regards,
+
+Niccolò Zuppichini
++41 76 275 07 06
+niccolo.zuppichini@gmail.com
+linkedin.com/in/niccolo-zuppichini
+niccolozuppichini.com
